@@ -1,0 +1,32 @@
+To whom it may concern,
+I have enjoyed building things for the longest time. When I began my computer science career, I
+jumped in excitement when I wrote my first “Hello World” program. As I continued learning to code, I
+also nurtured essential software development skills including troubleshooting, critical thinking, and
+communication. I continue to grow a deep appreciation for the art form, engineering, and talent
+required to power many businesses and commonly-used electronics.
+
+
+Within a team project, collaboration is important and I can help bridge knowledge gaps and find clarity
+in a problem through clear, concise communication. To complement effective communication, quality
+assurance is a skill I value and can use to help simplify code, refactor repeated sections of code, and
+express clear methods that follow the principle of single responsibility. I strive to follow the rules of
+Test Driven Development, building code with scalability and sustainability in mind. Writing tests and
+improving existing code are thorough tasks, but important to me for creating powerful, stable
+programs for clients. When bugs and errors do occur, I can quickly assess and isolate issues with code
+and help develop long-lasting solutions to these problems. My enthusiasm for learning provides me the
+ability to meet the demands of the ever-changing requirements in hardware and software. I seek to
+learn from fellow software developers on how they approach tasks so we can collectively grow in
+knowledge, adaptability, and teamwork.
+
+
+I enjoy traveling across the country, taking hikes, and camping outdoors all while documenting my trips
+with my camera. As a graduate from Benedictine College, I currently practice with Elixir, building web
+applications in the Phoenix framework for small projects I am passionate about including finance, 3D
+printing, and modeling. Benedictine’s liberal arts program and my most recent internship with Binary
+Noggin have taught me to solve computer science problems from different views, learn more from
+hands-on experience, and adapt to the ever changing demands of a software developer.
+
+Thank you for your consideration. I look forward to hearing from you soon.
+
+Sincerely,
+Thomas Tighe
