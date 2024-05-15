@@ -1,7 +1,34 @@
 To who it may concern,
 
-My name is Thomas Tighe. I am currently a software developer at SHARx creating solutions for our in-house service app. For the longest time, I have loved automation and programming. Early on in my life, I enjoyed computers and how varying hardware/software have been combined to create amazing tools and applications we use today. Since having written my first "Hello World", I've strived to challenge myself daily on my understanding of software, how to effectively develop it, and how to keep it scalable and maintainable. Quality code and mitigation of techincal debt to me are not just nice to haves, but are important skill sets that are required for business success and a world full of changing requirements.
+My name is Thomas Tighe. I am currently a software developer at SHARx creating
+solutions for our in-house service app. For the longest time, I have loved automation
+and programming. Early on in my life, I enjoyed computers and how varying hardware/software
+have been combined to create amazing tools and applications we use today. Since having   
+written my first "Hello World", I've strived to challenge myself daily on my
+understanding of software, how to effectively develop it, and how to keep it scalable
+and maintainable. Quality code and mitigation of techincal debt to me are not just nice
+ to haves, but are important skill sets that are required for business success and a world
+  full of changing requirements.
 
-Within a team project, collaboration is important, especially when working with a business client. I work to bridge the gaps of knowledge across different expertise to create a clear, concise image on the problems we are facing, how we want to solve those problems, and the hurdles we face in achieving an end product. Quality code is the best defense against software entropy and evolving business requirements and I seek to write simple, easy to to understand code that follows practice principles like single responsibility and decoupling. To complement quality assurance, I excerise the rules of test drive development in implementing reliable code for the future. These investments into a project, whether a startup or legacy code, are esstential to me in building a system that can withstand change. When change does occur, I rely on the Agile Manifesto to lead fruitful retrospectives for my team, and myself. We each have our area of software knowledge and principles, which I seek to challenge everyday, so that we collectively grow, and adapt into an agile team.
+Within a team project, collaboration is important, especially when working with a
+business client. I work to bridge the gaps of knowledge across different expertise
+to create a clear, concise image on the problems we are facing, how we want to solve
+those problems, and the hurdles we face in achieving an end product. Quality code
+is the best defense against software entropy and evolving business requirements
+and I seek to write simple, easy to to understand code that follows practice
+principles like single responsibility and decoupling. To complement quality
+assurance, I excerise the rules of test drive development in implementing
+reliable code for the future. These investments into a project, whether
+a startup or legacy code, are esstential to me in building a system that can
+withstand change. When change does occur, I rely on the Agile Manifesto
+to lead fruitful retrospectives for my team, and myself. We each have
+our area of software knowledge and principles, which I seek to challenge
+ everyday, so that we collectively grow, and adapt into an agile team.
 
-In my free time, I practice coding on small Elixir projects coded in the Phoenix Framework. I also enjoy eating spicy foods including habeneros and carolina reapers. I enjoy fermenting foods, taking hikes in the country, and drawing. Across my education, internship, and previous work, they have all taught me to solve people and software problems from different views, learn more through hands-on experience, and adapt to the everchanging demands of a software developer.
+In my free time, I practice coding on small Elixir projects coded in the
+ Phoenix Framework. I also enjoy eating spicy foods including habeneros
+  and carolina reapers. I enjoy fermenting foods, taking hikes in the country,
+   and drawing. Across my education, internship, and previous work, they have
+    all taught me to solve people and software problems from different views,
+     learn more through hands-on experience, and adapt to the everchanging 
+     demands of a software developer.
